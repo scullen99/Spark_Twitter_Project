@@ -34,7 +34,7 @@ sc = SparkContext("local[*]", "server")
 globals()['sqlContextSingletonInstance'] = HiveContext(sc)
 
 
-# #### El streaming context es un siervo del demoño, adorador de satán y de los pokimans
+# #### 
 
 # In[ ]:
 
