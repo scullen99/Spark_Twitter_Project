@@ -14,7 +14,7 @@ jupyter notebook
 
 ## Crear un sistema de procesamiento en tiempo real de tweets en castellano usando Python y Pyspark.
 
-- [X] (CALLER) Crear un programa Python que se conectevía socket a la API de Twitter ([API Twitter](https://stream.twitter.com)) y que descargue in real time datos sobre algunas # de interés en castellano, enviar los datos recibidos al Spark Streamming Server.
+- [X] (CALLER) Crear un programa Python que se conectevía socket a la API de Twitter ([API Twitter](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)) y que descargue in real time datos sobre algunas # de interés en castellano, enviar los datos recibidos al Spark Streamming Server.
 
 - [X] (SERVER) Crear una aplicación Spark StreammingServer para recibir y procesar los datos recibidos en tiempo real.
 
