@@ -1,4 +1,4 @@
-# Twitter Data Processing
+# Spark Twitter Project
 
 - [English](https://github.com/scullen99/PySpark_Twitter_Data_Processing#project-explanation)
 - [Spanish](https://github.com/scullen99/PySpark_Twitter_Data_Processing#explicaci%C3%B3n-del-proyecto)
