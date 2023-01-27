@@ -1,7 +1,7 @@
 # Twitter Data Processing
 
-- English
-- Spanish
+- [English](https://github.com/scullen99/PySpark_Twitter_Data_Processing#project-explanation)
+- [Spanish](https://github.com/scullen99/PySpark_Twitter_Data_Processing#explicaci%C3%B3n-del-proyecto)
 
 ## Project explanation:
 This project aims to create a real-time processing system for tweets in Spanish using Python and Pyspark. The project consists of several steps:
