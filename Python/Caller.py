@@ -26,10 +26,10 @@ import socket, json, sys, requests, requests_oauthlib
 # ## Keys necesarias
 
 # %%
-CONSUMER_KEY = 'jvrWQACEPOYqquDQwc8ywquTH'
-CONSUMER_SECRET = 'NfTFBSsaumtnRsyngEYWi1OCuccVVNOLDKDlWBO9Dz24UpLw2D'
-ACCESS_TOKEN = '710043709094682624-5l2aPw4AF6di5LfRgnqyZak8BEhjCrz'
-ACCESS_SECRET = 'BE6dR5XwW1amtMCyKc4zoW2KkgR7ZayU656RNnQHcuW55'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
 my_auth = requests_oauthlib.OAuth1(CONSUMER_KEY, CONSUMER_SECRET,ACCESS_TOKEN, ACCESS_SECRET)
 
 # %% [markdown]
